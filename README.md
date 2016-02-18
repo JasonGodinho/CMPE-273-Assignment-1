@@ -1,1 +1,1 @@
-# CMPE-273-Assignment-1
+Yahoo-Virtual-Stock-Manager
